@@ -33,10 +33,3 @@ if (((hI === mI) === hF) === mF) {
     minuto = 0;
     console.log(`O JOGO DUROU ${hora} HORA(S) E ${minuto} MINUTO(S)`);
 } 
-//else if (hI <= hF && mI < mF){
-//  var hora = (hF-hI)
-// var minuto = (mF-mI)
-// console.log(`O JOGO DUROU ${hora} HORA(S) E ${minuto} MINUTO(S)`)
-//}
-let asdas = apsidjasd
-const sadsa = Number(28)  
